@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5K36g/KV5SEUV+wFlJlg/6IJYf4flfGCXD9laRlHAEdyKRCtERNRuQB8jj8ZHJ0t6BbqR8IQUGwgbHTsumSYA==",
+  "success": true,
+  "projectFilePath": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\SQL_managermentCoffe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
