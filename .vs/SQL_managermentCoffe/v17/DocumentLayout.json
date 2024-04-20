@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\WINFORM#C\\SQL_managermentCoffe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|d:\\winform#c\\sql_managermentcoffe\\sql_managermentcoffe\\fmanagerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\fmanagerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|d:\\winform#c\\sql_managermentcoffe\\sql_managermentcoffe\\allform\\fall_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\allform\\fall_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|d:\\winform#c\\sql_managermentcoffe\\sql_managermentcoffe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|D:\\WINFORM#C\\SQL_managermentCoffe\\sql_managermentcoffe\\allform\\fall_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\allform\\fall_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|d:\\winform#c\\sql_managermentcoffe\\sql_managermentcoffe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|D:\\WINFORM#C\\SQL_managermentCoffe\\sql_managermentcoffe\\allform\\fstatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\allform\\fstatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|d:\\winform#c\\sql_managermentcoffe\\sql_managermentcoffe\\allform\\fhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\allform\\fhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|d:\\winform#c\\sql_managermentcoffe\\sql_managermentcoffe\\allform\\finvoice statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\allform\\finvoice statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|d:\\winform#c\\sql_managermentcoffe\\sql_managermentcoffe\\allform\\fstatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F384F85E-30AE-4A56-909C-F08533093C8F}|SQL_managermentCoffe\\SQL_managermentCoffe.csproj|solutionrelative:sql_managermentcoffe\\allform\\fstatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,10 +62,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -65,40 +73,81 @@
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\Form1.cs",
-              "RelativeDocumentMoniker": "SQL_managermentCoffe\\Form1.cs",
-              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\Form1.cs",
-              "RelativeToolTip": "SQL_managermentCoffe\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "DocumentIndex": 3,
+              "Title": "Fhelp.cs [Design]",
+              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\Fhelp.cs",
+              "RelativeDocumentMoniker": "SQL_managermentCoffe\\AllForm\\Fhelp.cs",
+              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\Fhelp.cs [Design]",
+              "RelativeToolTip": "SQL_managermentCoffe\\AllForm\\Fhelp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:38:29.123Z",
+              "WhenOpened": "2024-04-20T15:18:47.244Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fstatistical.cs",
+              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\Fstatistical.cs",
+              "RelativeDocumentMoniker": "SQL_managermentCoffe\\AllForm\\Fstatistical.cs",
+              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\Fstatistical.cs",
+              "RelativeToolTip": "SQL_managermentCoffe\\AllForm\\Fstatistical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:11:43.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Fmanagerment.cs [Design]",
-              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\Fmanagerment.cs",
-              "RelativeDocumentMoniker": "SQL_managermentCoffe\\Fmanagerment.cs",
-              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\Fmanagerment.cs [Design]",
-              "RelativeToolTip": "SQL_managermentCoffe\\Fmanagerment.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "FInvoice statistics.cs [Design]",
+              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\FInvoice statistics.cs",
+              "RelativeDocumentMoniker": "SQL_managermentCoffe\\AllForm\\FInvoice statistics.cs",
+              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\FInvoice statistics.cs [Design]",
+              "RelativeToolTip": "SQL_managermentCoffe\\AllForm\\FInvoice statistics.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:32:43.353Z",
+              "WhenOpened": "2024-04-20T15:01:50.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FAll_Management.cs",
+              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\FAll_Management.cs",
+              "RelativeDocumentMoniker": "SQL_managermentCoffe\\AllForm\\FAll_Management.cs",
+              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\FAll_Management.cs",
+              "RelativeToolTip": "SQL_managermentCoffe\\AllForm\\FAll_Management.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:33:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fstatistical.cs [Design]",
+              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\Fstatistical.cs",
+              "RelativeDocumentMoniker": "SQL_managermentCoffe\\AllForm\\Fstatistical.cs",
+              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\Fstatistical.cs [Design]",
+              "RelativeToolTip": "SQL_managermentCoffe\\AllForm\\Fstatistical.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:10:56.966Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\Form1.cs",
-              "RelativeDocumentMoniker": "SQL_managermentCoffe\\Form1.cs",
-              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\Form1.cs [Design]",
-              "RelativeToolTip": "SQL_managermentCoffe\\Form1.cs [Design]",
+              "Title": "FAll_Management.cs [Design]",
+              "DocumentMoniker": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\FAll_Management.cs",
+              "RelativeDocumentMoniker": "SQL_managermentCoffe\\AllForm\\FAll_Management.cs",
+              "ToolTip": "D:\\WINFORM#C\\SQL_managermentCoffe\\SQL_managermentCoffe\\AllForm\\FAll_Management.cs [Design]",
+              "RelativeToolTip": "SQL_managermentCoffe\\AllForm\\FAll_Management.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T15:42:52.572Z",
+              "WhenOpened": "2024-04-18T15:56:51.553Z",
               "EditorCaption": " [Design]"
             }
           ]

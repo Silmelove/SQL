@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQL_managermentCoffe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91f371125775eb1c7a275af196df1835aab1557d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQL_managermentCoffe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQL_managermentCoffe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

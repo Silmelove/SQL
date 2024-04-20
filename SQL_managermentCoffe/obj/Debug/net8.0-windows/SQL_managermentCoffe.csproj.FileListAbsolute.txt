@@ -7,7 +7,6 @@ D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\bin\Debug\net8.0-windows\
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\bin\Debug\net8.0-windows\System.Management.dll
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.csproj.AssemblyReference.cache
-D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.Form1.resources
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.Properties.Resources.resources
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.csproj.GenerateResource.cache
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.GeneratedMSBuildEditorConfig.editorconfig
@@ -20,4 +19,16 @@ D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.pdb
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.genruntimeconfig.cache
 D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\ref\SQL_managermentCoffe.dll
-D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.Fmanagerment.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.sourcelink.json
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.FHome.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.FChange_user_account.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.Flogin.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.FMain.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.Femployee_manager.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.FProduct.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.FBill.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.FDetailed_invoice.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.FAll_Management.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.Fstatistical.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.FInvoice_statistics.resources
+D:\WINFORM#C\SQL_managermentCoffe\SQL_managermentCoffe\obj\Debug\net8.0-windows\SQL_managermentCoffe.AllForm.Fhelp.resources

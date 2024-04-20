@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SQL_managermentCoffe
+namespace SQL_managermentCoffe.AllForm
 {
-    public partial class Fmanagerment : Form
+    public partial class FChange_user_account : Form
     {
-        public Fmanagerment()
+        public FChange_user_account()
         {
             InitializeComponent();
         }
